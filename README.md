@@ -4,41 +4,35 @@
 
 2014 - "We don't see things as they are, we see them as we are."
 
-"urls":[
-"http://globalgamejam.org/2014/games/apartment-213",
-"http://globalgamejam.org/2014/games/harpy-slayer-saga",
-"http://globalgamejam.org/2014/games/kinectomancer"
-]
+* [Apartment 213 by Alexbezuska, Eric Lathrop, Mattie Richards,mjrevel](http://globalgamejam.org/2014/games/apartment-213)
+* [Harpy Slayer Saga by GamerGoneCoder, IAMZERG, tra2002](http://globalgamejam.org/2014/games/harpy-slayer-saga)
+* [Kinectomancer by cdwaddell, Chen Lu, Chris Nash](http://globalgamejam.org/2014/games/kinectomancer)
 
 ### ggj15 (6)
 
 2015 - "What do we do now?"
 
-"urls" : [
-"http://globalgamejam.org/2015/games/cops-run",
-"http://globalgamejam.org/2015/games/go-man",
-"http://globalgamejam.org/2015/games/oiram",
-"http://globalgamejam.org/2015/games/save-date",
-"http://globalgamejam.org/2015/games/day-world-changed",
-"http://globalgamejam.org/2015/games/watch-out-partysquatch"
-]
+* [Cops Run! by crestwoodCoder, warpedpipe](http://globalgamejam.org/2015/games/cops-run)
+* [GO MAN! by anthony.quisenberry, GamerGoneCoder, IAMZERG, Jonathan Josiah...](http://globalgamejam.org/2015/games/go-man)
+* [Oiram by cdwaddell](http://globalgamejam.org/2015/games/oiram)
+* [Save the Date by bslashingu, mintchipleaf](http://globalgamejam.org/2015/games/save-date)
+* [The Day the World Changed by Alexbezuska, Eric Lathrop](http://globalgamejam.org/2015/games/day-world-changed)
+* [Watch out for PartySquatch by Barryrowe](http://globalgamejam.org/2015/games/watch-out-partysquatch)
 
 ###ggj16 (10)
 
 2016 - "Ritual"
 
-"urls":[
-"http://globalgamejam.org/2016/games/ants-or-pigs",
-"http://globalgamejam.org/2016/games/are-you-us",
-"http://globalgamejam.org/2016/games/elementy-game",
-"http://globalgamejam.org/2016/games/marty-mcpapers-epic-delivery-service",
-"http://globalgamejam.org/2016/games/morning-ritual-13",
-"http://globalgamejam.org/2016/games/rite-passage-13",
-"http://globalgamejam.org/2016/games/ritual-cards-0",
-"http://globalgamejam.org/2016/games/powers-bee",
-"http://globalgamejam.org/2016/games/writual",
-"http://globalgamejam.org/2016/games/zen-madness"
-]
+* [Ants Or Pigs by chipmonkey, Garytaco, LilacLlama, zomblack](http://globalgamejam.org/2016/games/ants-or-pigs)
+* [Are You With Us? by 8WholeBits, bslashingu, mintchipleaf, Slend Anthony Kiedis](http://globalgamejam.org/2016/games/are-you-us)
+* [Elementy Game by Sparkz63](http://globalgamejam.org/2016/games/elementy-game)
+* [Marty McPaper's Epic Delivery Service by BenWiley4000](http://globalgamejam.org/2016/games/marty-mcpapers-epic-delivery-service)
+* [Morning Ritual by Alexbezuska, Eric Lathrop, howdycara](http://globalgamejam.org/2016/games/morning-ritual-13)
+* [Rite of Passage by studioPareidolia](http://globalgamejam.org/2016/games/rite-passage-13)
+* [Ritual Cards by pitchingchris, pseudo](http://globalgamejam.org/2016/games/ritual-cards-0)
+* [The Powers That Bee by CantRead, Connan Bell, GamerGoneCoder, senathesquid](http://globalgamejam.org/2016/games/powers-bee)
+* [Writual by dgregoire, max_gregoire](http://globalgamejam.org/2016/games/writual)
+* [Zen Madness by anthony.quisenberry, Matthew Caldwell, Thedaruma, zomblack](http://globalgamejam.org/2016/games/zen-madness)
 
 ## Ludum Dare (8)
 
