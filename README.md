@@ -4,7 +4,7 @@
 
 2014 - "We don't see things as they are, we see them as we are."
 
-* [Apartment 213 by Alexbezuska, Eric Lathrop, Mattie Richards,mjrevel](http://globalgamejam.org/2014/games/apartment-213)
+* [**Apartment 213** by Alexbezuska, Eric Lathrop, Mattie Richards, mjrevel](http://globalgamejam.org/2014/games/apartment-213)
 * [Harpy Slayer Saga by GamerGoneCoder, IAMZERG, tra2002](http://globalgamejam.org/2014/games/harpy-slayer-saga)
 * [Kinectomancer by cdwaddell, Chen Lu, Chris Nash](http://globalgamejam.org/2014/games/kinectomancer)
 
