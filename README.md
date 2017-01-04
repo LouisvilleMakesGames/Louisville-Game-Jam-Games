@@ -72,7 +72,7 @@ December 11th-14th, 2015 — Theme Tied: Two Button Controls, Growing
 
 * [**Beanstalkers Extreme: Takin' Out The Trash** by ambocclusion](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=58187)
 * [**Chicken Pox (in space)** by LilacLlama](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=50731)
-* [**Christmas Is Coming **by keyvin](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=64895)
+* [**Christmas Is Coming** by keyvin](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=64895)
 * [**Cluster Junk: The Secret of Trash Island** by Two Scoop Games](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=37347)
 * [**Drunken Boss Fight** by aquisenberry](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=36765)
 * [**Hydra Chicken** by awesomerex](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=35711)
