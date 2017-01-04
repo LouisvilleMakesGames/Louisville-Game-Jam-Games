@@ -48,12 +48,12 @@ April 25th-28th Weekend — Theme: Beneath the Surface
 
 August 22nd-25th, 2014 — Theme: Connected Worlds
 
-* [****Afterlife Dance Party**** by Wertle](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=22452)
-* [****Rails**** by mint](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=34790)
-* [****Relative to Scale**** by EndingChaos](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=40673)
-* [****Sneaky Nessie**** by barryrowe](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=34236)
-* [****Souls**** by explosivelimes](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=41123)
-* [****Stanley Squeaks and the Emerald Burrito**** by Two Scoop Games](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=37347)
+* [**Afterlife Dance Party** by Wertle](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=22452)
+* [**Rails** by mint](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=34790)
+* [**Relative to Scale** by EndingChaos](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=40673)
+* [**Sneaky Nessie** by barryrowe](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=34236)
+* [**Souls** by explosivelimes](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=41123)
+* [**Stanley Squeaks and the Emerald Burrito** by Two Scoop Games](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=37347)
 
 
 ### ld31 (9)
@@ -130,17 +130,17 @@ December 11th-14th, 2015 — Theme Tied: Two Button Controls, Growing
 
 December 9th-11th, 2016 — Theme: One Room
 
-* [****4.5**** by senabryer](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=90468)
-* [****Baggage - A game of Roommate Bliss**** by chipmonkey](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=63943)
-* [****Battle Dads**** by Peach Pie Productions](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=40673)
-* [****Cleanstalkers: Hidden Agenda**** by cooperra](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=64869)
-* [****Finding Home**** by abezuska](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=34387)
-* [****Home Is Where The Heart Is**** by ambocclusion](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=58187)
-* [****Junk in the Bunk**** by roaringcatgames](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=58120)
-* [****Mail Room**** by guru-guru](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=8310)
-* [****Mean Streets**** by backlashblues](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=57618)
-* [****Pew Pew Pew**** by Rise and Shine Games](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=92205)
-* [****Phase Shift Respawn**** by awesomerex](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=35711)
+* [**4.5** by senabryer](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=90468)
+* [**Baggage - A game of Roommate Bliss** by chipmonkey](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=63943)
+* [**Battle Dads** by Peach Pie Productions](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=40673)
+* [**Cleanstalkers: Hidden Agenda** by cooperra](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=64869)
+* [**Finding Home** by abezuska](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=34387)
+* [**Home Is Where The Heart Is** by ambocclusion](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=58187)
+* [**Junk in the Bunk** by roaringcatgames](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=58120)
+* [**Mail Room** by guru-guru](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=8310)
+* [**Mean Streets** by backlashblues](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=57618)
+* [**Pew Pew Pew** by Rise and Shine Games](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=92205)
+* [**Phase Shift Respawn** by awesomerex](http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=35711)
 
 ##Kentucky Fried Pixels (1)
 
